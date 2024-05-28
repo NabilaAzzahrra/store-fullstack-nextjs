@@ -31,7 +31,7 @@ This Store Management application is designed to facilitate the management of in
 
 Clone this repository to your local machine.
    bash
-   git clone https://github.com/lerian-febriana/store-management.git
+   git clone https://github.com/NabilaAzzahrra/store-management.git
    cd store-management
    npm install
    npm run dev
